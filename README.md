@@ -4,9 +4,7 @@
 
 ---
 
-<p align="center"> 
-  <b><font size= "42">Languages, Tools and Softwares:</b>
-</p>
+### Languages, Tools and Softwares:
 
 <p align="center">
  <img src=https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/c/c_48x48.png>
