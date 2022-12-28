@@ -4,7 +4,7 @@
 
 ---
 
-### Languages, Tools and Softwares:
+### Languages, Tools and Softwares 💻
 
 <p align="center">
  <img src=https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/c/c_48x48.png>
