@@ -4,6 +4,14 @@
 
 ---
 
+### GitHub Stats 🔎
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lleveque42&count_private=truet&hide=issues&theme=transparent&title_color=9f61d0&text_color=9f61d0">
+</p>
+
+---
+
 ### Languages, Tools and Softwares 💻
 
 <p align="center">
