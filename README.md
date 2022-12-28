@@ -15,3 +15,12 @@
  <img width="48" height="48" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/github.svg">
  <img width="48" height="48" src="https://github.com/gilbarbara/logos/blob/master/logos/docker-icon.svg">
 </p>
+
+---
+
+### Now playing 🎧
+
+<p align="center">
+ <img src="https://spotify-github-profile.vercel.app/api/view?uid=loulou.lev12&cover_image=true&theme=novatorem&show_offline=false&background_color=383333&bar_color=a061d1&bar_color_cover=false">
+</p>
+ 
