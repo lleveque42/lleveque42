@@ -2,6 +2,12 @@
   <img src="https://badge42.vercel.app/api/v2/clc6bxaur00060fmon220zhly/stats?cursusId=21&coalitionId=48">
 </p>
 
+---
+
+<p align="center"> 
+  <b><font size= "42">Languages, Tools and Softwares:</b>
+</p>
+
 <p align="center">
  <img src=https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/c/c_48x48.png>
  <img src=https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_48x48.png>
