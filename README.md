@@ -1,3 +1,5 @@
+# Hi, I'm Louis ! 👋
+
 <p align="center">
   <img src="https://badge42.vercel.app/api/v2/clc6bxaur00060fmon220zhly/stats?cursusId=21&coalitionId=48">
 </p>
@@ -5,11 +7,11 @@
  
 ---
 
-### GitHub Stats 🔎
+### About me 🔎
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lleveque42&count_private=truet&hide=issues&theme=transparent&title_color=9f61d0&text_color=9f61d0">
-</p>
+- Student at School 42
+- Looking for an internship or a new job opportunity
+- Reach me at lleveque@student.42.fr
 
 ---
 
