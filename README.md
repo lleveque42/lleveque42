@@ -16,13 +16,7 @@
 ### Languages, Tools and Softwares 💻
 
 <p align="center">
- <img src=https://github.com/lleveque42/lleveque42/blob/main/icons/c_48x48.png>
- <img src=https://github.com/lleveque42/lleveque42/blob/main/icons/cpp_48x48.png>
- <img src=https://github.com/lleveque42/lleveque42/blob/main/icons/python_48x48.png>
- <img src="https://github.com/lleveque42/lleveque42/blob/main/icons/bash.png">
- <img width="52" height="52" src="https://github.com/lleveque42/lleveque42/blob/main/icons/vscode.png">
- <img width="48" height="48" src="https://github.com/lleveque42/lleveque42/blob/main/icons/github.svg">
- <img width="48" height="48" src="https://github.com/lleveque42/lleveque42/blob/main/icons/docker-icon.svg">
+ <img src="https://skillicons.dev/icons?i=js,ts,html,css,sass,bash,c,cpp,docker,github,nestjs,py,react,vscode"/>
 </p>
 
 ---
